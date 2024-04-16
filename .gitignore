@@ -1,0 +1,6 @@
+*.csv
+*.env
+*.zip
+chromedriver
+*.txt
+__pycache__
